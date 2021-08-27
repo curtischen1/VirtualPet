@@ -49,7 +49,7 @@ noStroke();
   strokeWeight(5);
   fill (240,161,201);
   stroke(228,143,185);
-  arc(200,100,120,120,radians(280),radians (547));
+  arc(195,100,120,120,radians(280),radians (547));
   stroke(198,67,135);
   arc(183,107,50,50,radians(40),radians(180));
   fill(202,101,161);
